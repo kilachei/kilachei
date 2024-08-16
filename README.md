@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/kilachei">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Felix+Kiprotich;Researcher+%7C+Bachelor+Student+%7C+Full+Stack+Developer;Data+Analyst+%7C+Machine+Learning+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kenneth+Kipkirui;Researcher+%7C+Bachelor+Student+%7C+Full+Stack+Developer;Data+Analyst+%7C+Machine+Learning+%7C" alt="Typing SVG" />
 </a>
 <br/>
 </a>  
@@ -71,6 +71,6 @@ My Github Stats
 <p><a href="https://www.buymeacoffee.com/kilachei"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
 
 <!---
-kilacheikilachei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kilachei/kilachei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
