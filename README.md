@@ -17,7 +17,7 @@
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <a><img src="https://komarev.com/ghpvc/?username=kilachei&label=Profile%20views&color=0e75b6&style=flat" alt="kilachei"</a>
-<a href="https://twitter.com/kilacheiF" target="blank">
+<a href="https://twitter.com/kilachei1" target="blank">
     <img src="https://img.shields.io/twitter/follow/kilachei1?logo=twitter&style=for-the-badge" alt="kilachei" />
 </a> 
 <br/> 
