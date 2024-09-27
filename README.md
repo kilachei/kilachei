@@ -13,9 +13,6 @@
 <a href="mailto:kenkilachei@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href='https://scholar.google.com/citations?user=HM6-NlgAAAAJ&hl=en' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a>
 <a><img src="https://komarev.com/ghpvc/?username=kilachei&label=Profile%20views&color=0e75b6&style=flat" alt="kilachei"</a>
 <a href="https://twitter.com/kilachei1" target="blank">
     <img src="https://img.shields.io/twitter/follow/kilachei1?logo=twitter&style=for-the-badge" alt="kilachei" />
